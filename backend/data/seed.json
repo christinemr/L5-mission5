@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Vintage Typewriter",
+    "description": "A 1940s Royal Quiet Deluxe in working condition.",
+    "start_price": 75,
+    "reserve_price": 150
+  },
+  {
+    "title": "Signed Baseball",
+    "description": "Official MLB ball signed by a Hall of Fame pitcher.",
+    "start_price": 120,
+    "reserve_price": 250
+  },
+  {
+    "title": "Retro Gaming Console",
+    "description": "Original Nintendo Entertainment System with two controllers.",
+    "start_price": 90,
+    "reserve_price": 180
+  },
+  {
+    "title": "Handcrafted Wooden Chess Set",
+    "description": "Artisan chess board with carved walnut and maple pieces.",
+    "start_price": 60,
+    "reserve_price": 130
+  },
+  {
+    "title": "Antique Pocket Watch",
+    "description": "Gold-plated Elgin pocket watch from 1910, still ticking.",
+    "start_price": 200,
+    "reserve_price": 400
+  }
+]
